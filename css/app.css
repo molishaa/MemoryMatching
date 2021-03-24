@@ -198,7 +198,7 @@ h1 {
     animation-duration: 3s;
 }
 
-@keyframes swing {
+/* @keyframes swing {
     20% {
         transform: rotate3d(0, 0, 1, 15deg);
     }
@@ -214,7 +214,7 @@ h1 {
     to {
         transform: rotate3d(0, 0, 1, 0deg);
     }
-}
+} */
 
 .modalBackground .modalBody .summary{
     text-align: center;
@@ -231,7 +231,7 @@ footer{
 .congradulations {
     font-size: 50px;
     text-align: center;
-    color: goldenrod;
+    color: rgb(32, 218, 110);
     animation-name: rotateTrophy;
     animation-duration: 2s;
     animation-iteration-count: infinite;
